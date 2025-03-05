@@ -1,2 +1,2 @@
 # webapp
-pasic Webapp in python3 using flak and uvicorn
+Basic Webapp in python3 exposing a REST API
